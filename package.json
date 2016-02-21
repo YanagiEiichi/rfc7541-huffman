@@ -1,0 +1,14 @@
+{
+  "name": "rfc7541-huffman",
+  "version": "1.0.0",
+  "description": "A huffman algorithm implementation, according to the rfc7541",
+  "main": "huffman.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "babel-node tests/test.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
